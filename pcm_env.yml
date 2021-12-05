@@ -1,4 +1,4 @@
-name: PCM_public
+name: PCM
 channels:
   - default
 dependencies:
